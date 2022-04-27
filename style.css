@@ -13,8 +13,7 @@ body{
 }
 .heart{
     cursor: pointer;
-    margin: 300px;
-    left: 24%;
+    margin: auto;
     height: 200px;
     width: 200px;
     background: #f20044;
